@@ -1,0 +1,45 @@
+#box {
+
+}
+
+.card {
+margin: 50px;
+}
+
+#col1 {
+
+margin-top: 50px;
+}
+
+#col2 {
+margin-left: 50px;
+}
+#col3 {
+margin-top: -50px;
+margin-left: 300px;
+margin-bottom: 300;
+}
+
+h1 {
+margin-left: 50px;
+color: red;
+font-family: "Lucida Handwriting";
+}
+
+#kingPic {
+margin-left: 30px;
+}
+.navButtons {
+margin-top: 30px;
+margin-left: 50px;
+margin-bottom: 30px;
+}
+
+.slider {
+margin-left: 50px;
+}
+.text {
+width: 350px;
+margin-left: 50px;
+margin-top: 20px;
+}
